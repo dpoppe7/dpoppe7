@@ -1,8 +1,8 @@
-• 👋 Hi, I’m Damaris Poppe.
+- 👋 Hi, I’m Damaris Poppe.
 
-• 💻 I’m currently learning Computer Science at Harding University.
+- 💻 I’m currently learning Computer Science at Harding University.
 
-• 🌱 Here are some of the projects I have worked on as a student at Harding.
+- 🌱 Here are some of the projects I have worked on as a student at Harding.
 
 <!--
 **dpoppe7/dpoppe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
