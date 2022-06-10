@@ -2,7 +2,7 @@
 
 - 💻 I’m currently learning Computer Science at Harding University.
 
-- 💬 iOS/mobile development is my current interest. I also enjoy learnign about UI/UX design.
+- 💬 My current interest is iOS/mobile development. I also enjoy learnign about UI/UX and product design.
 
 - 🌱 Here are some of the projects I have worked on as a student at Harding.
 
