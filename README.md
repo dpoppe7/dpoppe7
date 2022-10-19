@@ -4,7 +4,7 @@
 
 - 💬 My current interest is iOS/mobile development. I also enjoy learnign about UI/UX and product design.
 
-- 🌱 Here are some of the projects I have been worked on.
+- 🌱 Here are some of the projects I have been working on.
 
 <!--
 **dpoppe7/dpoppe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
