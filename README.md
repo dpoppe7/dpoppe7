@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Damaris Poppe.
+### Hi! <img src="https://emojis.slackmojis.com/emojis/images/1702669548/82398/oh_waveq.gif" width="25"/> 
 
-- 💻 I’m currently learning Computer Science at Harding University.
+I'm **Damaris** a software developer focused on front-end/full-stack development and exploring open source.
 
-- 💬 My current interest is iOS/mobile development. I also enjoy learnign about UI/UX and product design.
+My current interest is web/mobile development.
 
-- 🌱 Here are some of the projects I have been working on.
+In my free time, I make [art](https://sheezy.art/dpoppe7), play video games and drink boba tea.
 
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpoppe7&layout=compact&langs_count=10&hide=shaderlab)
 <!--
 **dpoppe7/dpoppe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
