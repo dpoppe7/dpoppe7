@@ -1,6 +1,6 @@
 ### Hi! <img src="https://emojis.slackmojis.com/emojis/images/1702669548/82398/oh_waveq.gif" width="25"/> 
 
-I'm **Damaris** a software developer focused on front-end/full-stack development and exploring open source.
+I'm [**Damaris**](https://damarisc.netlify.app) a software developer focused on front-end/full-stack development and exploring open source.
 
 My current interest is web/mobile development.
 
